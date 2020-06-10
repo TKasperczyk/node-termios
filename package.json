@@ -13,11 +13,6 @@
     "nan": "^2.13.2"
   },
   "gypfile": true,
-  "devDependencies": {
-    "child_pty": "^3.0.10",
-    "jshint": "^2.10.2",
-    "mocha": "^5.2.0"
-  },
   "repository": {
     "type": "git",
     "url": "git://github.com/Gottox/node-termios"
