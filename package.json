@@ -1,5 +1,5 @@
 {
-  "name": "termios",
+  "name": "termios-fixed",
   "version": "0.1.8",
   "description": "get and set terminal attributes, line control, get and set baud rate",
   "main": "index.js",
@@ -15,7 +15,7 @@
   "gypfile": true,
   "repository": {
     "type": "git",
-    "url": "git://github.com/Gottox/node-termios"
+    "url": "git://github.com/TKasperczyk/node-termios"
   },
   "keywords": [
     "tcgetattr",
@@ -24,9 +24,9 @@
     "terminal"
   ],
   "bugs": {
-    "url": "https://github.com/Gottox/node-termios/issues"
+    "url": "https://github.com/TKasperczyk/node-termios/issues"
   },
-  "homepage": "https://github.com/Gottox/node-termios",
+  "homepage": "https://github.com/TKasperczyk/node-termios",
   "jshintConfig": {
     "unused": true,
     "eqeqeq": true,
